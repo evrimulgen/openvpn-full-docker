@@ -1,0 +1,6 @@
+ccd/
+pki/
+*.pem
+*.conf
+ovpn_env.sh
+*.ovpn
