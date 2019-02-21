@@ -1,6 +1,7 @@
 # OpenVPN on Docker with keys baked-in
 
 Builds on top of: https://github.com/kylemanna/docker-openvpn
+(Read the doc there first)
 
 ```
 mkdir vpn-data
