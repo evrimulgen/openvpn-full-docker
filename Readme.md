@@ -1,5 +1,7 @@
 # OpenVPN on Docker with keys baked-in
 
+Useful for spinning up pre-configured OpenVPN server on-demand with a trusted/secure Docker repo.
+
 Builds on top of: https://github.com/kylemanna/docker-openvpn
 (Read the doc there first)
 
