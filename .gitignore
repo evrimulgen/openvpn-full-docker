@@ -4,3 +4,4 @@ pki/
 *.conf
 ovpn_env.sh
 *.ovpn
+*.bak
